@@ -1,6 +1,5 @@
-import PupForm from './components/PupForm';
-import PupImage from './components/PupImage';
-
+import PupForm from "./components/PupForm";
+import PupImage from "./components/PupImage";
 const App = () => (
   <div id="app">
     <PupForm />
